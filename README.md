@@ -36,7 +36,7 @@
 
 ### 📦 Currently Exploring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,nextjs,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=redux,nextjs,ts,vite,threejs,sass,mongodb,jquery,materialui&theme=dark" />
 </p>
 
 <p align="center">
